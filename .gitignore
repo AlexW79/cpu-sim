@@ -1,0 +1,9 @@
+# Virtual environment (rebuilt from scratch, never committed)
+.venv/
+
+# Python's compiled cache files
+__pycache__/
+*.pyc
+
+# pytest cache
+.pytest_cache/
